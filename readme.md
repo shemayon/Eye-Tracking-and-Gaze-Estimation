@@ -26,7 +26,7 @@ Welcome to the **Realtime Eye Tracking and Gaze Estimator**, a computer vision p
 **Real-Time Gaze Tracking**
 > Green dot = Estimated Gaze | Red dot = Pupil Center | Blue dot = Purkinje Reflection
 
-<img src="images/demo.png" width="600" alt="Gaze Tracking Example"/>
+<img src="images/demo.png" width="200" alt="Gaze Tracking Example"/>
 
 **Testing**
 > Eye tracking tested on different individuals.
