@@ -118,7 +118,7 @@ Contributions are welcome! Fork the repo improve it, and open a pull request. Su
 
 ## 📜 License
 
-MIT License – feel free to use and modify!
+MIT License
 
 ---
 
